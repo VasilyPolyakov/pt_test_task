@@ -1,4 +1,4 @@
-# Test task for Positive Technologies
+# Test task
 
 Used library and frameworks:
 
